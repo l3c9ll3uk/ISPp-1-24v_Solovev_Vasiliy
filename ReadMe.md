@@ -12,6 +12,6 @@
 ----------
 [Ссылка](https://discord.gg/GpgDHU7W)
 ----------
-```
+```c#
 Console.WriteLine("Hello, World!");
 ```
