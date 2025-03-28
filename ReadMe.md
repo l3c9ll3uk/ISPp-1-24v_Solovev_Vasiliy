@@ -9,4 +9,9 @@
 1. git commit
 1. git log
 1. git diff
+----------
 [Ссылка](https://discord.gg/GpgDHU7W)
+----------
+```
+Console.WriteLine("Hello, World!");
+```
